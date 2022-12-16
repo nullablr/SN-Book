@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-16 09:50:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cbedd7a11bf3d950a902a6c3b24bcb44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PSP Books</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PSP Books" source="x_snc_psp_books">eddc13611bf3d950a902a6c3b24bcb6c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PSP Books">eddc13611bf3d950a902a6c3b24bcb6c</sys_scope>
+        <sys_update_name>sys_app_application_cbedd7a11bf3d950a902a6c3b24bcb44</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-16 09:50:10</sys_updated_on>
+        <title>PSP Books</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
